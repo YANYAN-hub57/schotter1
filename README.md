@@ -42,5 +42,4 @@ Molnár, V. (1995). My mother's letters: Simulation by computer. *Leonardo, 28*(
 
 Nake, F. (2005). Computer art: A personal recollection. In *Proceedings of the 5th Conference on Creativity & Cognition*. ACM. https://ia600903.us.archive.org/18/items/nakecomputerart/nake%20computer%20art.pdf
 
-Victor, B. (2012). *Inventing on principle* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
-
+Beattie, D. (2019). *The art of code* [Video]. NDC Oslo. [https://www.youtube.com/watch?v=6avJHaC3C2U](https://www.youtube.com/watch?v=6avJHaC3C2U)
