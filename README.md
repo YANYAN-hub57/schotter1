@@ -14,7 +14,7 @@ If a machine writes the code, someone still has to know whether it is any good. 
 
 ## Materials
 
-Painters understand paint; photographers understand light. Don Ihde's argument, from the lecture, is that technologies are never neutral tools: they shape what you perceive as possible (Ihde, 1990). A brush that cannot draw a straight line changes what a painting can be; a lens changes what a photographer sees as a picture. Code is now my material in the same sense. If I do not understand it, I cannot perceive what it makes possible: I will see only what I asked for, never what the machine could have offered. Bret Victor's [*Inventing on Principle*](https://www.youtube.com/watch?v=6avJHaC3C2U) makes the same claim from the other side: creators need an immediate connection to the thing they are making, and that connection runs through the material, not through a request to it.
+Painters understand paint; photographers understand light. Don Ihde's argument, from the lecture, is that technologies are never neutral tools: they shape what you perceive as possible (Ihde, 1990). A brush that cannot draw a straight line changes what a painting can be; a lens changes what a photographer sees as a picture. Code is now my material in the same sense. If I do not understand it, I cannot perceive what it makes possible: I will see only what I asked for, never what the machine could have offered. Dylan Beattie's [*The Art of Code*](https://www.youtube.com/watch?v=6avJHaC3C2U) — the hour-long talk this course points to — makes the same claim from the other side: code is a creative medium, not a technical chore, and the people who thrive in it treat it as one.
 
 ## The historical rhyme
 
