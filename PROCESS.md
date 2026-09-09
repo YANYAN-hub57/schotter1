@@ -1,46 +1,18 @@
-# PROCESS.md — How I Used AI on This Essay
+# PROCESS.md — How I used AI
 
-**Tools used:** Doubao (an AI assistant) for brainstorming, structuring, drafting,
-and editing. I also used its built-in file reading to check my own draft against
-the assignment brief.
+## What I used, and for what
 
-## What I used it for
+- **Doubao** (an AI text assistant): brainstorming directions, structuring the argument, drafting, and editing for length and clarity. That is the only tool — no Copilot, no translation.
 
-- **Brainstorming:** I gave the assistant my background (visual communication
-  design, restaurant owner, interested in data) and asked for directions the
-  essay could take. The assignment brief's list of angles — describing vs
-  specifying, reading vs writing, the historical rhyme — became the spine.
-- **Structuring:** I asked for an outline that would keep the essay specific
-  rather than generic, and we settled on: a concrete opening from my own
-  practice → the describing/specifying gap → reading code as a design skill →
-  the photography/synthesiser historical pattern → what survives.
-- **Drafting and editing:** The assistant wrote a full draft from my notes, then
-  tightened it down to within the word count. I then rewrote several sentences
-  myself to make sure they said what I actually think.
+## What it produced that I kept
 
-## One thing it produced that I kept
+- The framing of programming as **learning to read your medium**, built on Ihde's argument from the lecture. I kept it because it turns the abstract question — why learn something a machine can do? — into a material question I can answer from a design background: painters understand paint, photographers understand light, and in 2026 the material of my work is increasingly machine-written. It is a position, not a survey of everyone else's.
 
-The *Schotter* example as the bridge between "describing" and "specifying."
-I had only seen the artwork in the lecture; the assistant connected it to the
-idea that one rule plus one number carries the whole piece, and that the design
-judgment lives in choosing the rule — not in the line of code. That became the
-core of my second section, and it is the most useful claim in the essay.
+## What it produced that I rejected
 
-## One thing it produced that I rejected
+- Its first attempt at an opening was a paragraph of generic futurism — *"technology is changing rapidly, and designers must learn to adapt to remain relevant."* It was plausible, well-written, and wrong for this essay: it makes no claim, it just sounds like one. The assignment warns about exactly this failure mode — confident prose that argues nothing and cites nothing. Noticing that the paragraph was not my argument, and cutting it to state the position myself, is the judgement this essay is about.
 
-Its first opening. The assistant suggested starting with a broad statement about
-"technology changing faster than ever" — the generic futurism the brief
-explicitly warns against. I rejected it and replaced it with the specific scene
-from my restaurant: copying order data between screens by hand, and paying
-someone else to chart it. The concrete version says more about why I am here
-than three paragraphs of abstraction would.
+## What I did myself
 
-## Honest note
-
-The first full draft was written by the assistant in one sitting. What makes the
-essay mine is not that I typed every sentence — it is that I reworked the
-argument, rejected its weakest material, and checked that every example is
-real (my restaurant, the lecture's artworks, the cited texts). The commit
-history shows the essay being drafted, cut, and fixed across several days.
-
+- Chose the position, the concrete example from my own practice, and the structure; and verified every source in the bibliography before using it — the Ihde book, the Nake paper, the Molnár article, the Lovelace sketch — instead of trusting the assistant's citations.
 
