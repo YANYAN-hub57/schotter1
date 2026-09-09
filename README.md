@@ -1,94 +1,46 @@
-# Why Are We Here?
+# Why I am here: learning to read the medium
 
-*A reflection for SD5913 — Programming for Artists and Designers*
+I am a visual communication designer and a new IME master's student at PolyU, and I have enrolled in a programming course in a year when a sentence of English will produce working code. If I ask for *a generative poster that feels unsettling*, a machine will make me one. So why spend a semester learning to write, by hand, the thing I can now request?
 
-I did not start this course expecting to fall in love with code. I came as a visual
-communication designer who runs a Hubei restaurant in Wuhan, and I came because of
-a small, specific frustration: every evening, I watched my staff copy order data
-from one screen to another by hand, and every month I paid someone else to turn
-that data into a chart I could actually read. Nobody was doing anything wrong. It
-simply had never occurred to me that I could ask the data questions myself — that
-the charts were not something other people made for me, but something I could
-make, change, and argue with. This essay is about that shift, and about why I
-think a designer in 2026 should learn to program even though machines now write
-code on request.
+My answer: the scarce skill is no longer producing code. It is **specifying, reading, and judging** it. Programming is how I learn to do those three things rigorously, and that is a design education, not a technical one.
 
 ## Describing is not specifying
 
-Anyone can describe the thing they want. "A generative poster that feels
-unsettling." "A dashboard for our monthly costs that is calm and easy to scan."
-As a designer, I am trained to say these sentences well. What I was not trained
-to do is *specify* them — to say, in a form a machine cannot misunderstand, what
-"unsettling" means as a rule, or what "calm" means as a layout.
+Anyone can ask for "a generative poster that feels unsettling." Getting something you actually want out of that request is a different skill. In my practice, "unsettling" is not a word; it is a thousand small decisions — a baseline set a degree off horizontal, a kern tightened a hair too far, a grid so obedient that its perfection starts to feel wrong. Ask a text-to-image system for that feeling and it hands the word back: technically flawless, emotionally inert. To drag the actual feeling out of the machine, I have to make my taste explicit — and making taste explicit *is* specification. Programming is the discipline that teaches me how much of what I know I can actually say.
 
-The lecture's example of Georg Nees' *Schotter* (1968) made this concrete for me.
-One rule and one number: a grid that falls apart by an amount controlled by a
-single `chaos` variable. The work is not in the instruction — "rotate each row a
-little more than the last" fits in one line. The work is in deciding what the
-collapse should feel like, and then finding the exact arithmetic that produces it.
-That judgment, the step between wanting a feeling and encoding the rule that
-creates it, is a design act. If a machine writes the code, someone still has to
-make that judgment. I want to be that someone.
+## Reading versus writing
 
-## Reading matters more than writing
+If a machine writes the code, someone still has to know whether it is any good. The course makes the point better than I can: *"confident, well-formatted, entirely fictional citations are one of the most reliable failure modes these systems have"* ([the assignment](https://github.com/sd5913/pfad/blob/2026/assignments/01-why-are-we-here.md)). The person who cannot read code cannot tell the difference between a system that solved their problem and one that produced a plausible version of it. For a designer, reading code is not about syntax. It is about knowing what the machine actually did against what I asked it to do — a design judgement that happens to require material understanding.
 
-In the first week of this course I have already seen how much of the job is
-*reading*: reading a program line by line, asking what state it changes, and
-asking whether it changes the state I meant. This feels familiar. In visual
-communication I spend most of my time reading — a brief, a brand system, a
-layout — before I write anything. The same discipline transfers: a designer who
-cannot read code is stuck accepting whatever the machine produces, on the
-machine's terms. A designer who can read code can argue with it.
+## Materials
 
-My own restaurant taught me this more directly than any lecture could. Our menu
-is seasonal — Hubei cooking depends on what is fresh — and our costs swing with
-the market. For years I made menu decisions from a printed spreadsheet someone
-else produced. When I finally looked at the underlying records myself, I found
-patterns that changed my decisions: which dishes sold slowly but kept tables
-longer, which "cheap" ingredients actually cost more per serving than premium
-ones. None of this needed a computer to be true. It needed a designer to stop
-treating data as someone else's material. That is exactly how I feel about code
-now: it is a material, like ink or type, and not understanding your material has
-a cost.
+Painters understand paint; photographers understand light. Don Ihde's argument, from the lecture, is that technologies are never neutral tools: they shape what you perceive as possible (Ihde, 1990). A brush that cannot draw a straight line changes what a painting can be; a lens changes what a photographer sees as a picture. Code is now my material in the same sense. If I do not understand it, I cannot perceive what it makes possible: I will see only what I asked for, never what the machine could have offered. Bret Victor's [*Inventing on Principle*](https://www.youtube.com/watch?v=6avJHaC3C2U) makes the same claim from the other side: creators need an immediate connection to the thing they are making, and that connection runs through the material, not through a request to it.
 
 ## The historical rhyme
 
-The lecture showed Frieder Nake and Georg Nees being accused, in 1965, of making
-machines that would replace artists. It is a strange accusation to read now,
-because the artworks look so clearly like the beginning of a medium, not the end
-of one. Photography did not end painting; it ended the painting that was trying
-to be a photograph, and freed painting to become something else. Synthesisers
-did not end musicianship; they made it cheaper to hear a sound before you knew
-what it was. The pattern is not that the tool replaces the artist. The pattern is
-that the artist who understands the tool gets to decide what the medium becomes,
-and everyone else watches.
+In 1965, Frieder Nake and Georg Nees exhibited computer-generated drawings in Stuttgart and were accused of building machines that would replace artists (Nake, 2005). Photography was going to end painting; synthesisers were going to end musicianship. A century earlier, Ada Lovelace had already imagined the analytical engine weaving algebraical patterns "just as the Jacquard-loom weaves flowers and leaves" (Lovelace, 1843). What actually happened in each case: the new technology ended the old craft's monopoly on a function and freed it to become something else. Painting survived photography; musicianship survived synthesisers. The people who lost their footing were those who kept describing the old craft while the material changed. Is this time different? It might be. But the pattern of response — learn the new material, or become someone who can only describe what they used to do — looks the same.
 
-I think 2026 is on this same curve. Machines will write more and more of the
-code; that seems likely. But the historical record suggests that the people who
-end up shaping what software becomes are the ones who can read it, judge it, and
-point it in a direction — the ones who treat it as a material rather than a
-service.
+## Craft and authorship
 
-## What survives
+If I direct a system that produces the work, whose work is it? I think the answer changes with understanding. A photographer is an author not because they press the shutter but because they know what the light is doing. Vera Molnár, who wrote her own plotting programs in the late 1960s, called the result "a kind of dialogue between human and machine" (Molnár, 1995) — a dialogue you can only have if you can read what the machine answers. If I direct a system I do not understand, I am its customer. If I understand it — what it optimises, where it fails, what its priors are — I am authoring the process. The work is mine because the process is mine.
 
-If I am wrong — if most of what is taught in this course becomes obsolete within
-my career — I still think the underlying habit is the right one to build. The
-habit of working in small, nameable steps and being able to go back to any of
-them; the habit of asking what state a system is in before changing it; the
-habit of refusing to accept a plausible output without checking it. That habit,
-not any particular syntax, is what survives.
+## The uncomfortable case
 
-I came here wanting to ask my own data questions and make my own tools. I still
-want that. But I am leaving week one with something more specific: the
-conviction that programming is not the opposite of design, and never was. It is
-design's newest material, and this semester I am learning to work with it.
+Maybe most of what this course teaches will be obsolete within my career. I think believing that is not an argument for skipping it; it is the strongest argument for being here. What survives obsolescence is not a set of tools but habits: working in increments you can name, being able to go back, and judging work you did not write. The assignment's commit history is not busywork — it is the discipline of making the work yours by being able to revisit it. And the ability to judge machine-written work is precisely what the next twenty years will pay for.
 
----
+## Why I am here
 
-## Bibliography
+So: not to write code. A machine writes it faster and better than I ever will. I am here to learn to **read** the medium, so that when I direct the machine I am authoring it rather than requesting from it. The designer who survives this decade is not the one who prompts best; it is the one who can tell the difference between a system that understood and a system that only sounded like it did.
 
-- Beattie, D. (2023). *The Art of Code* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
-- Ihde, D. (1990). *Technology and the Lifeworld: From Garden to Earth*. Indiana University Press.
-- Lovelace, A. (1843). Note G. In L. F. Menabrea, *Sketch of the Analytical Engine Invented by Charles Babbage*. Taylor and Francis. https://www.fourmilab.ch/babbage/sketch.html
-- Nees, G. (1968). *Schotter* [Generative artwork].
-- Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society, s2-42*(1), 230–265.
+## References
+
+Ihde, D. (1990). *Technology and the lifeworld: From garden to earth*. Indiana University Press.
+
+Lovelace, A. A. (1843). Sketch of the analytical engine invented by Charles Babbage, Esq. — Notes by the translator. *Scientific Memoirs, 3*. https://www.fourmilab.ch/babbage/sketch.html
+
+Molnár, V. (1995). My mother's letters: Simulation by computer. *Leonardo, 28*(3). https://courses.ideate.cmu.edu/60-212/s2022/wp-content/uploads/2022/01/molnar-mothers-letters.pdf
+
+Nake, F. (2005). Computer art: A personal recollection. In *Proceedings of the 5th Conference on Creativity & Cognition*. ACM. https://ia600903.us.archive.org/18/items/nakecomputerart/nake%20computer%20art.pdf
+
+Victor, B. (2012). *Inventing on principle* [Video]. YouTube. https://www.youtube.com/watch?v=6avJHaC3C2U
+
