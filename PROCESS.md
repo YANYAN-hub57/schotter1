@@ -2,7 +2,7 @@
 
 ## What I used, and for what
 
-- **Doubao** (an AI text assistant): brainstorming directions, structuring the argument, drafting, and editing for length and clarity. That is the only tool — no Copilot, no translation. (amazing)
+- **Doubao** (an AI text assistant): brainstorming directions, structuring the argument, drafting, and editing for length and clarity. That is the only tool — no Copilot, no translation. 
 
 ## What it produced that I kept 
 
