@@ -4,7 +4,7 @@
 
 - **Doubao** (an AI text assistant): brainstorming directions, structuring the argument, drafting, and editing for length and clarity. That is the only tool — no Copilot, no translation.
 
-## What it produced that I kept
+## What it produced that I kept （1）
 
 - The framing of programming as **learning to read your medium**, built on Ihde's argument from the lecture. I kept it because it turns the abstract question — why learn something a machine can do? — into a material question I can answer from a design background: painters understand paint, photographers understand light, and in 2026 the material of my work is increasingly machine-written. It is a position, not a survey of everyone else's.
 
